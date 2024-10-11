@@ -21,6 +21,7 @@ This repository contains a lightweight C# script execution engine built on top o
 ### Example Usage
 
 ```csharp
+// Globals is a custom class, and the system automatically parses its fields and values into the script's global variables.
 public class Globals {
     public string name = "undefined";
     public int age = 0;

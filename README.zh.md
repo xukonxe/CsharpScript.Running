@@ -1,6 +1,6 @@
 ## CsharpScript.Running
-[English](README.md) | [简体中文](README.zh.md) 
-其他相关仓库：[CsharpScript.Console C#运行时脚本控制台](https://github.com/xukonxe/CSharpScript.Console/tree/master)
+- [English](README.md) | [简体中文](README.zh.md) 
+- 其他相关仓库：[CsharpScript.Console C#Script运行时控制台](https://github.com/xukonxe/CSharpScript.Console/tree/master)
 
 该仓库包含一个基于 C#Scripting 库的轻量级 C# 脚本执行引擎，支持开发者动态执行 C# 脚本，无需重新编译整个程序。具有以下功能：
 

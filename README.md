@@ -1,4 +1,6 @@
 # CsharpScript.Running
+- [English](README.md) | [简体中文](README.zh.md) 
+- Related repositorie：[CsharpScript.Console C#Script Runtime Console](https://github.com/xukonxe/CSharpScript.Console/tree/master)
 This repository contains a lightweight C# script execution engine built on top of the Microsoft.CodeAnalysis.CSharp.Scripting library. It allows developers to dynamically execute C# scripts with support for:
 
 - **Global Variables**: Set global context for scripts with user-defined objects.

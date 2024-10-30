@@ -106,6 +106,7 @@ namespace TGZG.CSharpScript.Running {
 		//Options:before Run
 		public object? globals { get; private set; }
 		public ScriptOptions options => ScriptOptions.Default
+				.WithEmitDebugInformation(true)
 				.WithImports(usings)
 				.WithReferences(references);
 		List<string> usings = [];

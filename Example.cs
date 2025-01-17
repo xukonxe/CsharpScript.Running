@@ -25,9 +25,9 @@ namespace TestConsole {
 		}
 		public static void Main(string[] args) {
 			//File Running Example
-			var 脚本路径 = Path.Combine(Environment.CurrentDirectory, "ExampleFile.cssc");
+			var 脚本路径 = Path.Combine(AppContext.BaseDirectory, "ExampleFile.cssc");
 			while (true) {
-				//CSharpScriptRunning.RunFileAsAction(脚本路径, true);
+				CSharpScriptRunning.RunFileAsAction(脚本路径, true);
 				//CSharpScriptRunning.CompileFile(脚本路径, true);
 				//CSharpScriptRunning.RunFileAsFunc<double>(脚本路径, true);
 				$"请输入匹配字符".Log();

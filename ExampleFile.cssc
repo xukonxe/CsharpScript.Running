@@ -1,3 +1,1 @@
-﻿//这里要写一个虚拟的飞控函数
-
-return 俯仰+滚转+偏航;
+﻿TestConsole.Program.你好.数据 = 1;

@@ -7,6 +7,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CsharpScript.Running", "Csh
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CsharpScript.Running.DLLCreate", "..\CsharpScript.Running.DLLCreate\CsharpScript.Running.DLLCreate.csproj", "{271EBB11-1F88-49A1-A43C-48E40B2BD4E1}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RunningEditor", "..\RunningEditor\RunningEditor.csproj", "{F3015DED-655A-44E2-8CCA-499FEBB125F9}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{271EBB11-1F88-49A1-A43C-48E40B2BD4E1}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{271EBB11-1F88-49A1-A43C-48E40B2BD4E1}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{271EBB11-1F88-49A1-A43C-48E40B2BD4E1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F3015DED-655A-44E2-8CCA-499FEBB125F9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F3015DED-655A-44E2-8CCA-499FEBB125F9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F3015DED-655A-44E2-8CCA-499FEBB125F9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F3015DED-655A-44E2-8CCA-499FEBB125F9}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
